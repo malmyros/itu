@@ -21,7 +21,6 @@ class App extends React.Component {
 
   onLoadData = () => {
     const {term, offset, limit} = this.state
-    https://itunes.apple.com/search?country=GB&entity=musicArtist,album,musicTrack&limit=10&term=U2&offset=0&callback=__jp0
     fetch(`https://itunes.apple.com/search?term=${term}&entity=musicArtist,album,musicTrack&offset=${offset}&limit=${limit}`, {
       method: 'POST',
       mode: 'cors',
