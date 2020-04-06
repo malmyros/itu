@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d508e02c444202aa86ee0c432c34a65",
+    "revision": "5a05bc29dcc55074e0fd8eca2544dc42",
     "url": "/itu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/itu/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "1a9c2f62b2bf3ab86e59",
+    "revision": "ec157e42ecb62cd5e963",
     "url": "/itu/static/css/main.a520041a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/itu/static/js/2.cf2215ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a9c2f62b2bf3ab86e59",
-    "url": "/itu/static/js/main.02242f95.chunk.js"
+    "revision": "ec157e42ecb62cd5e963",
+    "url": "/itu/static/js/main.82197dfc.chunk.js"
   },
   {
     "revision": "bec63ccb2fefea030a5b",
