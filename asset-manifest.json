@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/itu/static/css/main.a520041a.chunk.css",
+    "main.js": "/itu/static/js/main.1f8aedb5.chunk.js",
+    "main.js.map": "/itu/static/js/main.1f8aedb5.chunk.js.map",
+    "runtime-main.js": "/itu/static/js/runtime-main.91f8bdd0.js",
+    "runtime-main.js.map": "/itu/static/js/runtime-main.91f8bdd0.js.map",
+    "static/css/2.de424728.chunk.css": "/itu/static/css/2.de424728.chunk.css",
+    "static/js/2.cf2215ef.chunk.js": "/itu/static/js/2.cf2215ef.chunk.js",
+    "static/js/2.cf2215ef.chunk.js.map": "/itu/static/js/2.cf2215ef.chunk.js.map",
+    "index.html": "/itu/index.html",
+    "precache-manifest.6e4459555781044bce0cb34bb241dd4f.js": "/itu/precache-manifest.6e4459555781044bce0cb34bb241dd4f.js",
+    "service-worker.js": "/itu/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/itu/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a520041a.chunk.css.map": "/itu/static/css/main.a520041a.chunk.css.map",
+    "static/js/2.cf2215ef.chunk.js.LICENSE.txt": "/itu/static/js/2.cf2215ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f8bdd0.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.cf2215ef.chunk.js",
+    "static/css/main.a520041a.chunk.css",
+    "static/js/main.1f8aedb5.chunk.js"
+  ]
+}
